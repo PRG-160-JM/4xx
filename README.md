@@ -23,6 +23,7 @@ inside out project version 402-0
 	- added minimal validateLogin function to check for blank strings
 	
 inside out project version 403-0
+
 	- index.html
 		- updated all hrefs/links to passive protocol
 		- moved style sheet link below animate and bootstrap to allow for custom styles to override all
@@ -37,6 +38,7 @@ inside out project version 403-0
 		- added the linkClicked function which is called by click events on anchor elements and returns dynamically driven results
 	
 inside out project version 404-0
+
 	-index.html
 		- removed comments and cleaned code
     	- added script tag for quotes.js file
